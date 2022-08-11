@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ctamyildirim
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.JS Redux Statement
+- 🌱 I’m currently learning Node.js MongoDB
 - 📫 How to reach me : ctamyildirim@gmail.com
 
 <!---
