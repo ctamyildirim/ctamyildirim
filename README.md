@@ -6,7 +6,7 @@
 All Skills
 
 - Javascript & Typescript
-- AngularCLI & Ionic.js
+- AngularCLI & Ionic.js & Angular Material
 - ReactJS Redux
 - Jquery
 - CSS3 - SCSS - Tailwind - Bootstrap 
