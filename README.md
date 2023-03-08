@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=300&size=25&pause=1000&color=ECEEF7&center=true&vCenter=true&width=1024&lines=I'm+Cihan+Tamy%C4%B1ld%C4%B1r%C4%B1m)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=1000&color=ECF4F7&center=true&vCenter=true&width=1024&lines=Welcome%2C+I'm+Cihan+Tamy%C4%B1ld%C4%B1r%C4%B1m)](https://git.io/typing-svg)
 -
 ![](https://komarev.com/ghpvc/?username=ctamyildirim&color=333333)
 
