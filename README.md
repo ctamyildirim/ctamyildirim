@@ -1,6 +1,6 @@
 
 
-<div>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=300&size=25&pause=1000&width=435&lines=I'm+Cihan+Tamy%C4%B1ld%C4%B1r%C4%B1m)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=300&size=25&pause=1000&width=435&lines=I'm+Cihan+Tamy%C4%B1ld%C4%B1r%C4%B1m)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node.js MongoDB
