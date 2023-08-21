@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ctamyildirim&color=333333)
 
 # 💫 About Me:
-👀 I’m interested in Frontend Development<br>🔭 I’m currently working on KerzzPos<br>🌱 I’m currently learning Next.js and React Native<br>📝 I regularly write articles on https://medium.com/@ctamyildirim<br>💬 Ask me about Frontend Development<br>📫 How to reach me : ctamyildirim@gmail.com
+👀 I’m interested in Frontend Development<br>🔭 I’m currently working on Caretta!<br>🌱 I’m currently learning Next.js and React Native<br>📝 I regularly write articles on https://medium.com/@ctamyildirim<br>💬 Ask me about Frontend Development<br>📫 How to reach me : ctamyildirim@gmail.com
 
 
 ## 🌐 Socials:
